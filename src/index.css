@@ -11,3 +11,79 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: blanchedalmond;
+  padding: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  margin-left: 15px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.blog{
+  text-align: center;
+}
+
+.blog-preview{
+  width: 200px;
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
+  background-color: darksalmon;
+  margin-left: 20px;
+  padding: 8px;
+}
+
+.newblog, .blogdetail{
+  text-align: center;
+}
+
+.articleform{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  width: 500px;
+}
+
+form input{
+  width: 500px;
+  height: 25px;
+  outline: inherit;
+  border: 1px solid rgb(198, 80, 8);
+  border-radius: 5px;
+}
+
+form textarea{
+  width: 500px;
+  outline: inherit;
+  border: 1px solid rgb(198, 80, 8);
+  border-radius: 5px;
+}
+
+form select{
+  width: 500px;
+  height: 25px;
+  margin-top: 15px;
+}
+
+.btnadd{
+  width: 90px;
+  height: 25px;
+  margin-top: 15px;
+  background-color: coral;
+  border: 0.5px solid ghostwhite;
+  border-radius: 5px;
+}

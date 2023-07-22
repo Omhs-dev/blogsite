@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "Author": "Omar",
+      "Title": "Article One",
+      "Article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium",
+      "id": 1
+    },
+    {
+      "Author": "Malik",
+      "Title": "Article Two",
+      "Article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium",
+      "id": 2
+    },
+    {
+      "Author": "Omar",
+      "Title": "Article Three",
+      "Article": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium",
+      "id": 3
+    }
+  ]
+}
